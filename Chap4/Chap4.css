@@ -1,0 +1,28 @@
+#text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: crimson;
+}
+
+#o {
+    width: 800px;
+    height: 800px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bubble {
+    border: 3px solid #03030300;
+    display: block;
+    position: absolute;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+}
+
+body {
+    background-color: #e9d30f;
+}
